@@ -1,0 +1,18 @@
+#titlePage{
+    top: 120px;
+    position: absolute;
+    position: fixed;
+    font-size: 50px;
+    text-align: none;
+    transform: translateX(-50%);
+}
+nav > ul > li {
+    background-color: blue;
+    width: 20%;
+    display: inline-block;
+    text-align: center;    
+}
+nav {
+    width: 100%;
+    position: fixed;
+}
